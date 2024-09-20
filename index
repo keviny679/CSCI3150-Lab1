@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkpoint 1</title>
+</head>
+<body>
+
+    <header>
+        <h1>Kevin Yang</h1>
+    </header>
+
+    <nav>
+        <a href="#assignment1">Assignment 1</a>
+        <a href="#assignment2">Assignment 2</a>
+        <a href="#assignment3">Assignment 3</a>
+    </nav>
+
+    <main>
+        <section class="aboutme">
+            <h2>About Me</h2>
+            <p>Im Kevin, a 4th year undergrad studying computer science at the University of Colorado Boulder. </p>
+        </section>
+    </main>
+</body>
+</html>
